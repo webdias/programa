@@ -714,6 +714,24 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180630-wa0015-709x488.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Milena Mendonça",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "O prazer começa aqui, venha conferir !",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"http://bit.ly/2tYuSFZ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meu WhatsApp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\">Fotos</a>",
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180630-wa0014-704x524.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
